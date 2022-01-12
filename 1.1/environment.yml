@@ -1,6 +1,7 @@
 name: some-environment
 channels:
   - conda-forge
+  - defaults
 dependencies:
   - ipython
   - ipywidgets
